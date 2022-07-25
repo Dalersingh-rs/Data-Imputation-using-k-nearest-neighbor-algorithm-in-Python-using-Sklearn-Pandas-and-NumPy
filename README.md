@@ -27,7 +27,7 @@ Efficiency is analyzed by comparing and visualizing the NRMS/AE values of indivi
 >To get more insight on how the algorithms function, checkout the [research paper](https://github.com/Dalersingh-rs/Data-Imputation-using-k-nearest-neighbor-algorithm-in-Python-using-Sklearn-Pandas-and-NumPy/blob/main/2014%20Jason%20Van%20Hulse%20-%20Incomplete%20case%20nearest%20neighbor%20imputation%20in%20sof%20%5Bretrieved_2022-01-28%5D.pdf) that I used
 
 ### File Description 
-To simplify the running process, 5 python files have been attached. 
+To simplify execution with a better runtime, 5 python files have been attached. 
 
 To impute numerical datasets, run
 
